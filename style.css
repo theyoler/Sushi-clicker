@@ -1,0 +1,28 @@
+body {
+        display: flex;
+    justify-content: center;
+    align-items: start;
+    background-size: cover;
+    background-image: url("https://st3.depositphotos.com/2977159/31813/i/450/depositphotos_318137526-stock-photo-teak-wood-texture-background-natural.jpg");
+    min-height: 100vh;
+    margin: 0;
+}
+
+.sushi {
+    width: 800px;
+    height: 500px;
+    margin-top: 50px;
+    position: absolute;
+    background: none;
+    border: none;
+    bottom: 0;
+}
+
+.Sushis {
+    width: 1300px;
+    height: 100px;
+    margin: 10px;
+    gap: 10px;
+    font-size: 50px;
+    color: white;
+}
